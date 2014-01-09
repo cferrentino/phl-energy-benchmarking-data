@@ -1,0 +1,260 @@
+FACILITY_DESCRIPTION,ASSET_ADDR,ASSET_ZIP,ASSET_ID,BLDG_FLOOR_AREA,YEAR_BUILT,PROPERTY_TYPE,SECTOR,NUMBER_OF_BUILDINGS,ENERGY_STAR_SCORE,SITE_EUI,WEATHER_NORMALIZED_SITE_EUI,SOURCE _EUI,WEATHER_NORMALIZED_SOURCE_EUI,PERCENT_BETTER,TOTAL_GHG_EMISSIONS,ELECTRIC_USE,GAS_USE,STEAM_USE,OIL_USE
+Curran-Fromhold Correctional Facility,7901 State Road,22031,395,436250,1995,Prison/Incarceration,Correctional Facilities,1,N/A,277.8,278.1,536.8,531.6,216,10800.9,14993930,700232.5,N/A,0.0
+Holmesburg Complex,8215 Torresdale Avenue,19136,64,716651,1896,Prison/Incarceration,Correctional Facilities,3,N/A,13.7,14.4,23.6,24.4,-80.8,757.5,929333,65236.9,N/A,129784.9
+House of Correction Complex,8003 State Road,19136,397,830754,1927,Prison/Incarceration,Correctional Facilities,5,N/A,138,145.5,204,211.8,65.7,7812.1,6879149,911908.0,N/A,N/A
+Philadelphia Detention Center,8201 State Road,19136,394,108960,1963,Prison/Incarceration,Correctional Facilities,1,N/A,388.6,409,596.5,617.9,251,3028.4,2895454,298664.8,N/A,2590732.2
+Philadelphia Industrial Correction Center,8203 State Road,19136,393,200000,1979,Prison/Incarceration,Correctional Facilities,1,N/A,220.6,227,384.9,391.6,126.5,3420.6,4297814,294624.8,N/A,N/A
+Riverside Correctional Facility,8001 State Road,19136,398,220000,2004,Prison/Incarceration,Correctional Facilities,1,N/A,166.4,170.8,356.2,360.8,109.6,3348.0,5596778,175171.2,N/A,N/A
+Fire Employee Assistance Program,611 N. 2nd Street,19123,1258,7035,1964,Fire Station,Fire Stations,1,N/A,81.8,85.9,133.1,138.4,8.1,42.2,46594,4163.4,N/A,N/A
+Fire Engine 1,711 S. Broad Street,19146,358,8100,1964,Fire Station,Fire Stations,1,N/A,122.1,126.7,213.2,215,73.2,76.8,96640,6589.5,N/A,N/A
+Fire Engine 10,1357 S. 12th Street,19147,22,7035,1963,Fire Station,Fire Stations,1,N/A,126.1,132.5,215,218.9,74.7,67.5,81556,6085.8,N/A,N/A
+Fire Engine 11,605 SOUTH ST,19147,112,6232,1976,Fire Station,Fire Stations,1,N/A,52.7,52.9,149.4,148.7,21.4,38.0,82193,479.0,N/A,N/A
+Fire Engine 12,4445 Main Street,19127,665,12735,1927,Fire Station,Fire Stations,1,N/A,63.3,66.6,100.8,103.3,-18.1,58.1,61329,5962.4,N/A,N/A
+Fire Engine 13,1541 Parrish Street,19130,344,4611,1952,Fire Station,Fire Stations,1,N/A,254.4,266.8,362.1,371.9,194.1,77.6,61427,9632.4,N/A,N/A
+Fire Engine 14,1658 Foulkrod Street,19124,108,4611,1927,Fire Station,Fire Stations,1,N/A,216.9,229.4,347.1,355.8,182.1,72.4,77129,7370.8,N/A,N/A
+Fire Engine 16,1517 Belmont Avenue,19104,189,7004,1969,Fire Station,Fire Stations,1,N/A,114.3,119.8,190.9,194.6,55.1,60.0,69599,5633.4,N/A,N/A
+Fire Engine 18,8205 E. Roosevelt Blvd.,19152,237,6192,1984,Fire Station,Fire Stations,1,N/A,109.1,114.5,180.3,184.1,46.4,50.1,57030,4811.0,N/A,N/A
+Fire Engine 19,300 E. Chelten Avenue,19144,715,9905,1957,Fire Station,Fire Stations,1,N/A,106.2,111.6,176.3,180,43.1,78.5,89939,7453.0,N/A,N/A
+Fire Engine 2,2420 N. 2nd Street,19133,778,9659,1977,Fire Station,Fire Stations,1,N/A,157.6,167.1,246.6,254.5,100.3,108.4,109923,11472.5,N/A,N/A
+Fire Engine 20,133 N. 10th Street,19107,378,7035,1956,Fire Station,Fire Stations,1,N/A,96.2,99.5,177.9,179,44.4,54.9,75781,4184.0,N/A,N/A
+Fire Engine 22,11700 Academy Road,19154,1258,7100,1964,Fire Station,Fire Stations,1,N/A,103.5,104.5,193.9,192.6,57.5,60.3,84887,4451.2,N/A,N/A
+Fire Engine 25,2437 Boudinot Street,19134,925,6322,1967,Fire Station,Fire Stations,1,N/A,111.1,115.4,190.2,191.7,54.5,53.7,65159,4800.8,N/A,N/A
+Fire Engine 27,1900 Oxford Sreet,19121,1182,6526,1951,Fire Station,Fire Stations,1,N/A,140.2,146,238.8,243.4,93.9,69.6,83800,6291.4,N/A,N/A
+Fire Engine 28,2520 E. Ontario Street,19134,1199,6786,1977,Fire Station,Fire Stations,1,N/A,124.5,130,219.3,222.5,78.1,66.0,84329,5571.8,N/A,N/A
+Fire Engine 29,400 W. Girard Avenue,19123,528,6850,1972,Fire Station,Fire Stations,1,N/A,119.3,122.7,245.5,245.4,99.5,72.4,115461,4235.4,N/A,N/A
+Fire Engine 3,200 Washington Avenue,19147,160,5540,1960,Fire Station,Fire Stations,1,N/A,136.2,140.7,215.9,217.2,75.3,54.3,56629,5612.9,N/A,N/A
+Fire Engine 33,4750 Richmond Street,19137,692,5100,1964,Fire Station,Fire Stations,1,N/A,120.5,125.8,196.3,198.8,59.4,45.2,49914,4441.0,N/A,N/A
+Fire Engine 34,2741 W. Thompson Street,19121,822,8896,1975,Fire Station,Fire Stations,1,N/A,98.3,103.3,157,160.9,27.5,63.3,67112,6455.8,N/A,N/A
+Fire Engine 35,4208 Ridge Avenue,19129,773,8586,1958,Fire Station,Fire Stations,1,N/A,128.8,133.9,221.7,224.8,80.1,84.8,104123,7504.4,N/A,N/A
+Fire Engine 36,7818 Frankford Avenue,19136,211,7688,1972,Fire Station,Fire Stations,1,N/A,119.7,125.5,220.8,225,79.5,74.6,102556,5705.4,N/A,N/A
+Fire Engine 37,103 W. Highland Avenue,19118,1177,9300,1894,Fire Station,Fire Stations,1,N/A,84.1,90,119.8,126,-2.7,51.8,41040,6425.0,N/A,N/A
+Fire Engine 43,2110 Market Street,19103,178,13086,1963,Fire Station,Fire Stations,1,N/A,64,65.1,132.3,129.8,7.4,74.5,119386,4307.3,N/A,N/A
+Fire Engine 44,3420 Haverford Avenue,19104,465,7011,1908,Fire Station,Fire Stations,1,N/A,97.5,103,154.3,160.1,25.3,49.1,51119,5088.6,N/A,N/A
+Fire Engine 45,2535 W. York Street,19132,1125,7156,1962,Fire Station,Fire Stations,1,N/A,120.1,125,204.7,206.7,66.3,65.4,78920,5900.7,N/A,N/A
+Fire Engine 46,4000 Linden Street,19114,491,6100,1966,Fire Station,Fire Stations,1,N/A,108.1,111,219.7,219.4,78.4,57.8,90846,3495.2,N/A,N/A
+Fire Engine 47,3095 Grays Ferry,19146,264,8050,1974,Fire Station,Fire Stations,1,N/A,115.5,118.4,220.5,221.2,79.1,77.5,111977,5479.2,N/A,N/A
+Fire Engine 49,2600 S. 13th Street,19148,31,8000,1956,Fire Station,Fire Stations,1,N/A,102,107,166.7,170.5,35.5,60.1,66835,5880.2,N/A,N/A
+Fire Engine 5,4299 Market Street,19104,149,18578,1960,Fire Station,Fire Stations,1,N/A,59.3,61.9,106,107,-28.4,87.1,113885,7134.3,N/A,N/A
+Fire Engine 50,2900 Park Avenue,19132,1166,13201,1901,Fire Station,Fire Stations,1,N/A,77.2,80.1,145.7,146.9,18.4,84.1,119721,6106.3,N/A,N/A
+Fire Engine 52,4501 Vankirk Street,19135,89,14102,1951,Fire Station,Fire Stations,1,N/A,32.3,33.7,60.1,61,-51.2,37.1,51638,2796.2,N/A,N/A
+Fire Engine 53,2100 S. 4th Street,19148,87,5800,1987,Fire Station,Fire Stations,1,N/A,127.4,134.4,224.2,230.2,82,57.7,73528,4883.0,N/A,N/A
+Fire Engine 54,6301 Lancaster Avenue,19151,138,7600,1948,Fire Station,Fire Stations,1,N/A,94.5,98.4,158.4,161,28.6,53.9,63066,5026.9,N/A,N/A
+Fire Engine 55 and Warehouse,4000 N. Front St.,19140,1114,16456,1962,Non-Refrigerated Warehouse,Fire Stations,1,N/A,147.6,152.8,290.5,294.2,383.9,207.3,312551,13631.3,N/A,N/A
+Fire Engine 56,830 Rhawn Street,19111,172,10144,1948,Fire Station,Fire Stations,1,N/A,68.8,73.2,109.1,113.7,-11.3,50.3,52450,5191.4,N/A,N/A
+Fire Engine 57,5557 Chestnut Street,19139,167,6800,1975,Fire Station,Fire Stations,1,N/A,99,103.4,182.3,184.5,48,54.5,74678,4184.0,N/A,N/A
+Fire Engine 58,812 Hendrix Street,19116,341,5450,1985,Fire Station,Fire Stations,1,N/A,114.9,117,187.8,189.3,52.6,46.2,51309,4512.9,N/A,N/A
+Fire Engine 6,2601 Belgrade Street,19125,1192,11567,1912,Fire Station,Fire Stations,1,N/A,92.9,96.9,158.9,161.1,29,82.1,99659,7339.9,N/A,N/A
+Fire Engine 61,5332 E. Rising Sun Avenue,19120,768,4462,1951,Fire Station,Fire Stations,1,N/A,146.1,154.1,234.9,240.9,90.7,47.4,50982,4780.2,N/A,N/A
+Fire Engine 63,1212 Oak Lane,19126,695,6900,1950,Fire Station,Fire Stations,1,N/A,121.9,129.3,180.8,187.1,46.9,57.5,51079,6671.7,N/A,N/A
+Fire Engine 64,6100 E. Rising Sun Avenue,19111,1083,24092,1924,Office,Fire Stations,1,97,40.3,42.6,60.5,62.2,-60.1,66.9,61373,7617.5,N/A,N/A
+Fire Engine 66,7718 Ridge Avenue,19128,1187,4000,1950,Fire Station,Fire Stations,1,N/A,130.2,137.4,201.4,207.6,63.6,36.8,36296,3968.1,N/A,N/A
+Fire Engine 68,783 S. 52nd Street,19143,411,8723,1984,Fire Station,Fire Stations,1,N/A,106.8,112.4,190.4,194.3,54.6,73.5,95758,6044.6,N/A,N/A
+Fire Engine 69,8201 Tinicum Avenue,19153,45,9262,1929,Fire Station,Fire Stations,1,N/A,81.9,86.9,151.4,156.7,23,61.6,84909,4687.7,N/A,N/A
+Fire Engine 7,3780 Kensington Street,19124,589,10000,1955,Fire Station,Fire Stations,1,N/A,105.8,108.7,214.8,214.9,74.6,92.7,145514,5612.9,N/A,N/A
+Fire Engine 70,5300 Langdon Street,19124,258,9626,1930,Fire Station,Fire Stations,1,N/A,111.9,118.3,162.2,167.2,31.8,72.3,60372,8707.2,N/A,N/A
+Fire Engine 71,1900 Cottman Street,19111,11,16550,1930,Fire Station,Fire Stations,1,N/A,91,95.3,140.9,143.7,14.5,106.3,105393,11462.2,N/A,N/A
+Fire Engine 72,1127 Louden Street,19141,889,11940,1932,Fire Station,Fire Stations,1,N/A,110.5,116.7,169.5,174.9,37.6,92.5,89481,10146.4,N/A,N/A
+Fire Engine 73,7559 Ogontz Avenue,19105,719,8500,1948,Fire Station,Fire Stations,1,N/A,110.5,118,160.6,168.5,30.5,63.2,53177,7576.4,N/A,N/A
+Fire Engine 8,101 N. 4th Street B,19106,472,8239,1968,Fire Station,Fire Stations,1,N/A,157.5,165.1,267,272.2,116.9,98.4,117489,8964.2,N/A,N/A
+Fire Engine 9,6900 Germantown Avenue,19119,792,7332,1930,Fire Station,Fire Stations,1,N/A,171.1,182.8,268.5,280.8,118,89.5,91332,9426.8,N/A,N/A
+Employees Health Center,700 N 19th Street,19130,41,9720,1970,Medical Office,Health Centers,1,5,161.6,167.3,334.2,337,69.9,139.7,224200,8059.5,N/A,N/A
+Health Center 2 ,1400 Morris Street,19145,961,21175,1962,Medical Office,Health Centers,1,6,186,189.4,420.8,418,73,377.1,669510,16550.8,N/A,N/A
+Health Center 3,4300 Chester Avenue,19104,58,26750,1959,Medical Office,Health Centers,1,37,127.7,131.8,252.1,251.5,13.8,292.5,442777,19059.1,N/A,N/A
+Health Center 4,4400 Haverford Avenue,19104,986,22030,1960,Medical Office,Health Centers,1,21,140.5,143.6,310,308.8,28.2,290.2,502011,13816.3,N/A,N/A
+Health Center 5,1900 N. 20th Street,19121,785,67280,1960,Medical Office,Health Centers,1,77,68,69.9,148.9,149.6,-37.6,426.5,731941,20755.3,N/A,N/A
+Health Center 6,301 West Girard Avenue,19123,645,21000,1973,Medical Office,Health Centers,1,43,79.9,79.7,250.8,250.1,7.7,212.4,491663,N/A,N/A,N/A
+Health Center 9,131 E. Chelten Avenue,19144,1137,14524,1958,Medical Office,Health Centers,1,12,173.2,180.3,334.2,339.6,43.4,211.4,310326,14566.8,N/A,N/A
+Health Center Strawberry Mansion,2800 Dauphin Street,19132,849,15865,1984,Medical Office,Health Centers,1,38,78.5,78.9,246.6,247.8,12.5,157.8,365159,N/A,N/A,N/A
+20th Street Annex Library,311 N. 20th Street,19103,1681,10000,1922,Library,Libraries,1,N/A,28.3,27,86.2,82.1,-63.4,35.0,79187,123.4,705.7,N/A
+Blackwell West Regional Library,123 S. 52nd Street,19139,49,15083,1976,Library,Libraries,1,N/A,178.6,182.9,390.8,390.4,65.8,250.9,429930,12274.3,N/A,N/A
+Bushrod Library,6310 Castor Avenue,19102,539,10093,1950,Library,Libraries,1,N/A,79.4,81.2,179.3,176.4,-23.9,76.6,135782,3382.1,N/A,N/A
+Bustleton Library,10195 Bustleton Avenue,19116,210,9170,1965,Library,Libraries,1,N/A,135.5,136.5,292.3,290.3,24.1,114.4,192998,5839.0,N/A,N/A
+Cecil B Moore Library,2320 Cecil B. Moore,19121,1206,8550,1962,Library,Libraries,1,N/A,181.3,184.3,399.7,393.3,69.6,145.2,250946,6939.0,N/A,N/A
+Central Library,1901 Vine Street,19103,321,200680,1922,Library,Libraries,1,N/A,133,134.3,354.3,351.8,50.3,3119.4,5908530,3248.5,6202830.0,N/A
+Chestnut Hill Library,8711 Germantown Avenue,19118,585,9711,1909,Library,Libraries,1,N/A,183.6,192,306.2,309.4,29.9,133.4,154449,12562.2,N/A,N/A
+Coleman Northwest Regional Library,78 W. Chelten Avenue,19144,1138,19117,1978,Library,Libraries,1,N/A,272.4,286.2,553.1,569.8,134.6,456.1,716088,27632.6,N/A,N/A
+David Cohen Ogontz Library,6017 Ogontz Avenue,19141,885,3880,1997,Library,Libraries,1,N/A,159.8,163.3,358.4,358.3,52,58.9,103694,2662.5,N/A,N/A
+Donatucci Passyunk Library,1945 Shunk Street,19145,451,8911,1914,Library,Libraries,1,N/A,97.3,101,163.2,162.6,-30.7,65.1,76159,6075.5,N/A,N/A
+Eastwick Library,2875 ISLAND RD,19142,176,6545,1980,Library,Libraries,1,N/A,88.6,86.4,278.4,271.4,18.1,73.5,170049,N/A,N/A,N/A
+Falls of Schuykill Library,3501 Warden Drive,19129,1147,8360,1913,Library,Libraries,1,N/A,169.4,170.4,272.9,270,15.8,103.1,111429,10362.2,N/A,N/A
+Fox Chase Library,8001 Jeanes Street,19111,536,9081,1968,Library,Libraries,1,N/A,135,139.1,269.7,270.3,14.4,106.0,162887,6702.6,N/A,N/A
+Frankford Library,4634 Frankford Avenue,19124,7,11852,1906,Library,Libraries,1,N/A,75.7,77.9,156.2,156,-33.7,79.7,127407,4626.0,N/A,N/A
+Fumo Family Library,2411 S BROAD ST,19148,386,4827,1999,Library,Libraries,1,N/A,149.6,149.6,469.6,469.6,99.2,91.4,211588,N/A,N/A,N/A
+Greater Olney Library,5451 N. 5th Street,19120,1195,10420,1949,Library,Libraries,1,N/A,76.4,78.5,151.8,151,-35.6,68.5,104592,4389.6,N/A,N/A
+Haddington Library,6500 W Girard Avenue,19151,381,10017,1915,Library,Libraries,1,N/A,115.2,120,235.2,240.4,-0.2,101.5,160605,6054.9,N/A,N/A
+Haverford Library,5531 Haverford Avenue,19139,403,6872,1979,Library,Libraries,1,N/A,130.8,133.4,270.6,269.1,14.8,79.9,128404,4605.4,N/A,N/A
+Holmesburg Library,7752 Frankford Avenue,19136,39,8087,1907,Library,Libraries,1,N/A,85.7,90.3,151.9,154.4,-35.5,54.4,70203,4533.5,N/A,N/A
+Katharine Drexel Library,11939 Knights Road,19154,98,9421,1969,Library,Libraries,1,N/A,97.2,97.3,201.7,198.8,-14.4,81.7,131654,4667.1,N/A,N/A
+Kensington Library,2301 Hope Street,19133,1136,5595,1956,Library,Libraries,1,N/A,190.6,200.7,336.7,344.7,42.9,83.5,107118,7011.0,N/A,N/A
+Lawncrest Library,6030 Rising Sun Avenue,19111,1082,7241,1961,Library,Libraries,1,N/A,123.7,128.1,249.6,251.5,5.9,78.0,121555,4811.0,N/A,N/A
+Lehigh Library,2700 N. 6th Street,19133,676,12614,1906,Library,Libraries,1,N/A,226.5,237.6,451.7,463.3,91.6,246.5,378230,15666.7,N/A,N/A
+Logan Library,1345 Wagner Avenue,19141,911,9448,1918,Library,Libraries,1,N/A,162.7,168.4,308.5,308.3,30.9,127.4,182345,9149.2,N/A,N/A
+Lovett Memorial Library,6945 Germantown Avenue,19119,669,8087,1924,Library,Libraries,1,N/A,122.9,128.4,223.6,227,-5.1,79.6,107191,6281.1,N/A,N/A
+McPheson Square Library,300 F Street,19134,577,9815,1917,Library,Libraries,1,N/A,104.3,107.8,199.2,200,-15.5,85.3,123423,6024.1,N/A,N/A
+Nicetown-Tioga Library,3720 N. Broad Street,19140,1162,9670,1961,Library,Libraries,1,N/A,76.1,78.2,163.1,163.7,-30.8,67.3,112821,3505.5,N/A,N/A
+Nixon - Cobbs Creek Library,5800 Cobbs Creek Parkway,19143,241,8607,1950,Library,Libraries,1,N/A,139,146.6,224.3,230.4,-4.8,87.2,94520,8738.0,N/A,N/A
+Northeast Regional Library & Health Center 10,2230 Cottman Street,19149,281,58009,1962,Library,Libraries,2,N/A,157.6,160.4,335.4,333.9,42.4,832.2,1382143,44276.0,N/A,N/A
+Oak Lane Library,6622 N. 12th Street,19126,836,8071,1911,Library,Libraries,1,N/A,94,97.6,178.6,179.1,-24.2,63.0,90418,4502.6,N/A,N/A
+Overbrook Park Library,7400 Woodbine Avenue,19151,180,10724,1972,Library,Libraries,1,N/A,121.7,127.2,224.6,227.6,-4.7,105.8,145661,8080.1,N/A,N/A
+Paschalville Library,6948 W Woodland Avenue,19142,457,8984,1915,Library,Libraries,1,N/A,172.3,182.3,262.2,268.4,11.2,107.8,102373,11986.5,N/A,N/A
+Queen Memorial Library,1201 S. 23rd Street,19146,477,2456,1995,Library,Libraries,1,N/A,157.1,161.9,361.1,362.2,53.3,37.4,67554,1552.3,N/A,N/A
+Ramonita Derodrigue Library,600 W. Girard Avenue,19123,1120,9465,1968,Library,Libraries,1,N/A,111.2,114.4,225.6,225.3,-4.3,92.1,144498,5592.3,N/A,N/A
+Richmond Library,2600 E. Indiana Avenue,19134,592,9672,1910,Library,Libraries,1,N/A,101.8,104.5,211.2,209.8,-10.4,87.7,141494,5016.6,N/A,N/A
+Roxborough Library,6247 Ridge Avenue,19128,862,9215,1969,Library,Libraries,1,N/A,97.7,100,224.8,224.8,-4.6,87.4,157894,3618.6,N/A,N/A
+Santore Library,701 Carpenter Street,19147,288,7950,1963,Library,Libraries,1,N/A,138.6,144.5,257,260.4,9,89.7,124346,6774.5,N/A,N/A
+Tacony Library,6742 Torresdale Avenue,19135,353,9100,1906,Library,Libraries,1,N/A,101.7,107.1,167,170.7,-29.1,68.4,76730,6640.9,N/A,N/A
+Torresdale Library,3079 Holme Avenue,19136,207,10464,1972,Library,Libraries,1,N/A,68.4,70.4,157.9,158,-33,69.7,126323,2847.6,N/A,N/A
+Walnut Street West Library,3958 Walnut Street,19104,243,9697,1906,Library,Libraries,1,N/A,95.5,96.5,233.3,230.2,-1,94.6,180928,3084.0,N/A,N/A
+Welsh Road Library,9233 Roosevelt Blvd,19114,554,10400,1968,Library,Libraries,1,N/A,115.9,119.9,236,237,0.2,105.8,166588,6373.6,N/A,N/A
+West Oak Lane Library,2010 E Washington Lane,19138,723,9973,1957,Library,Libraries,1,N/A,94.2,95.9,227.7,226.6,-3.4,95.0,180127,3248.5,N/A,N/A
+Whitman Library,200 Snyder Avenue,19148,956,6673,1977,Library,Libraries,1,N/A,171.6,178.5,314.5,319.5,33.4,92.3,125686,7165.2,N/A,N/A
+Widener Library,2808-2825 W Lehigh Ave,19132,610,7500,2005,Library,Libraries,1,N/A,115.6,120.4,269.8,274.9,14.5,85.2,156133,3341.0,N/A,N/A
+Wynnefield Library,5399 Overbrook Avenue,19131,517,13856,1964,Library,Libraries,1,N/A,94.2,99.2,162.9,166.1,-30.9,100.5,124177,8820.2,N/A,N/A
+Wyoming Library,245 E. Wyoming Avenue,19120,1059,9263,1930,Library,Libraries,1,N/A,112.2,115.8,196.3,193.9,-16.7,80.7,101942,6918.4,N/A,N/A
+19th Street Annex Library,20th Street and Wood Street,19103,322,10000,1922,Non-Refrigerated Warehouse,Maintenance Facilities and Warehouses,1,26,49.9,52.7,84.2,87.1,42.2,37.6,44516,3474.6,N/A,N/A
+Bartram Transfer Station / Garage 290,5014 Grays Avenue,19143,255,160963,1959,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,2,N/A,181.7,181.8,195.2,195.3,94.5,2217.0,257278,N/A,N/A,28376303.5
+Fairmount Park Maintenance / Garage 282 / Car Barn,4100 Montgomery Dr,19131,1023,36804,1950,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,0,N/A,174.6,183.9,244.7,254.7,143.9,453.0,325059,38786.4,N/A,1436741.5
+Garage 134,Front and Hunting Park,19125,904,59962,1968,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,182.7,193.5,334.4,345.8,233.4,882.4,1199514,68598.4,N/A,N/A
+Garage 159,4040 Whitaker,19124,685,20070,1970,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,389.5,413.9,587.2,614.4,484.8,540.9,501643,61063.2,N/A,N/A
+Garage 258 / Police Traffic,2625-45 MASTER STREET,19121,1719,59962,1970,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,2,N/A,87.8,92.5,145.7,149.7,45.1,392.3,449630,37306.1,N/A,N/A
+Garage 357 / Sanition Yard 2,3033 South 63rd Street,19148,213,20070,1970,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,337.9,357.1,597.6,624,494.9,531.4,683357,44491.8,N/A,N/A
+Garage 423,1117 Reed Street,19147,27,41176,1970,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,152.6,163.9,211.6,222.4,110.8,408.0,296404,52736.4,N/A,N/A
+Krewstown Stable,9000 Krewstown Road,19115,651,41330,1969,Other - Public Services,Maintenance Facilities and Warehouses,0,N/A,8.6,8.7,27,27.4,-78.1,45.0,104199,N/A,N/A,N/A
+Northcentral Service / Garage 241,2600 Glenwood Avenue,19132,818,32682,1954,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,2,N/A,107,107.1,171.5,171.6,70.9,310.6,285029,N/A,N/A,2525871.9
+Northwest Transfer Station and Fleet Shop 225,5201 Umbria St And Domino Lane,19128,1143,37841,1959,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,2,N/A,215.4,227.7,376.5,390.7,275.3,753.1,827522,N/A,N/A,5328915.5
+Police Tow Squad,4290-98 Macalester St At Whitaker,19124,788,21970,1960,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,113.2,112.7,199,197.4,98.2,230.3,255986,N/A,N/A,1613500.3
+Traffic Engineering Shop,4501 G ST,22031,929,22398,1960,"Repair Services (Vehicle, Shoe, Locksmith, etc.)",Maintenance Facilities and Warehouses,1,N/A,154.3,157.9,275,277,174.1,286.8,355159,22431.0,N/A,N/A
+Undisclosed Facility,N/A,N/A,N/A,N/A,N/A,N/A,Maintenance Facilities and Warehouses,1,50,22.2,22.2,69.6,69.6,0,148.9,344517,N/A,N/A,0.0
+Afro-American Historical Cultural Museum,7th &amp; Arch Streets,19106,391,32100,1750,Museum,Museums,1,N/A,114.2,116.4,263.9,261,210.3,404.4,614285,N/A,1570110.0,N/A
+Atwater Kent Museum,13-17 S 7th St,19106,979,14801,1938,Museum,Museums,1,N/A,218.6,218.6,478.5,478.5,462,349.2,482546,N/A,1589213.9,N/A
+Firefighter's Hall,4th &amp; Arch Streets,19106,347,9436,1968,Museum,Museums,1,N/A,280.3,285.6,624.4,624.4,633.8,250.0,436824,11544.4,N/A,N/A
+Lemon Hill Mansion,Sedgley Drive,19130,998,2855,1800,Museum,Museums,1,N/A,276.8,293,442.3,459.4,419.3,57.1,60742,5828.8,N/A,N/A
+Mann Music Center,5201 Parkside Avenue,19131,1017,48557,1976,Performing Arts,Museums,1,N/A,53.6,52.9,168.4,166.2,97.8,329.8,763194,N/A,N/A,N/A
+Philadelphia Museum of Art and Perelman Building,2600 Ben Franklin Parkway,19130,1933,804000,1929,Museum,Museums,2,N/A,176.8,178.5,355,357,317,14810.6,17324500,8604.4,82215264.4,N/A
+Rodin Museum,2151 Ben Franklin Parkway,19130,987,6199,1929,Museum,Museums,1,N/A,290.2,301.5,598.1,604.9,602.7,159.5,255115,9282.8,N/A,N/A
+"City Hall, MSB and CJC",Market Street and Broad Street,19102,N/A,2293000,1868,Office,Offices and Courts,3,N/A,80.6,82.9,186,186.9,-25.1,18143.5,32475910,690343.1,5051814.3,N/A
+City Hall,Broad and Market Street,19102,287,1202000,1868,Office,,1,94,56.3,58.9,108.6,111,-51.5,5685.5,8339192,392346.5,N/A,N/A
+Criminal Justice Center,13th and Filbert Street,19107,93,600000,1994,Courthouse,,1,28,123.9,127.3,314.6,318.4,26.2,7994.4,15421540,166515.4,5051814.3,N/A
+Municipal Services Building,1401 J.F.K. Boulevard,19102,165,491000,1968,Office,,1,74,87.3,90.1,218.3,221.2,-25.5,4463.5,8715175,131481.2,N/A,N/A
+Family Court,1801 Vine Street,19103,309,250000,1939,Courthouse,Offices and Courts,1,78,96.6,98.3,167.4,169.9,-30.4,2196.0,2077421,59572.6,11093453.8,N/A
+Fire Administration Building,276 Spring Garden Street,19123,274,50601,1975,Office,Offices and Courts,1,15,137.3,134.3,371.2,361.9,51.9,805.0,1619001,N/A,N/A,1421195.8
+Health Administration Building / Health Center 1,500 South Broad Street,19146,895,77688,1959,Office,Offices and Courts,1,16,146.5,147.9,384.6,381.4,49.6,1235.1,2514603,28002.7,N/A,N/A
+One Parkway Building,1515 Arch St,19102,40,502000,1962,Office,Offices and Courts,1,43,138.5,141.2,342.4,344,7.6,7170.2,13870350,221770.4,N/A,N/A
+Police Administration Building,750 Race Street,19106,156,126000,1956,Office,Offices and Courts,1,5,186,187.2,485.7,483.8,86.9,2724.3,4993398,0.0,6401033.9,N/A
+Air Management Laboratory,1501 E. Lycoming Street,19124,1123,28700,1964,Laboratory,Other Facilities,1,N/A,75.9,77.5,173,172.1,40.6,209.9,375369,8984.7,N/A,N/A
+Animal & Vector Control Facility,111 - 131 West Hunting Park Avenue,19140,861,31824,1972,Other,Other Facilities,1,N/A,123.6,128,282.6,287.2,129.7,380.0,681952,16077.9,N/A,N/A
+Fire Academy,5300 Pennypack Avenue,19136,75,18911,1980,Other - Public Services,Other Facilities,1,N/A,124.7,123.1,257.6,252.8,109.2,236.2,342558,N/A,N/A,1188616.1
+Gateway Shelter Supportive Housing,907 Hamilton Street,19123,446,20679,1950,Residence Hall/Dormitory,Other Facilities,1,8,163.4,166.6,295.5,296.4,73.1,274.8,360404,19151.6,N/A,235120.2
+Horticulture Center and Greenhouses,1 Horticultural Drive,19131,1019,39909,1950,Other,Other Facilities,1,N/A,282.5,305.4,355.7,380.7,188.9,681.3,330468,101463.6,N/A,N/A
+Juniata Older Adult Center,1251 E. Sedgley Street,19134,1882,13000,1950,Senior Care Community,Other Facilities,1,100,80,82.3,158.2,157,-68.3,89.2,135344,5777.4,N/A,N/A
+Medical Examiner Office / Air Mangement / Environmental Health Labs,321 University Ave,19104,133,85000,1970,Laboratory,Other Facilities,1,N/A,133.2,131.7,390.1,383.5,217.1,1349.7,2982929,11451.9,N/A,N/A
+Older Adult Center - Northeast Philadelphia,7522 Castor Avenue,19152,1092,12000,1950,Senior Care Community,Other Facilities,1,100,24.6,26.5,37.5,39.7,-87.8,20.6,19583,2282.2,N/A,N/A
+Older Adult Center - South Philadelphia Building,1410 E. Passyunk Avenue,19147,964,12000,1900,Other,Other Facilities,1,N/A,109.3,112.5,229.8,229.4,229.2,118.2,193670,6507.2,N/A,N/A
+Philadelphia Nursing Home,2300 Poplar St.,19130,853,347543,1950,Senior Care Community,Other Facilities,4,1,110.5,114.6,211.9,214.6,102,3211.2,4671650,224720.8,N/A,N/A
+Police Academy and Campus Facilities,8405 State Road,19136,69,24593,1953,Other - Public Services,Other Facilities,5,N/A,191.2,192.9,588.1,593.5,378,577.6,1336774,N/A,N/A,140622.0
+Police Forensic Science Center,843-849 North 8th Street,19123,179,40000,1923,Laboratory,Other Facilities,1,N/A,400.9,399.1,854.9,842.3,594.8,1462.0,2434200,77295.3,N/A,N/A
+Stenton Shelter Supportive Housing,1300 East Tulpehocken Street,19138,832,33998,1959,Multifamily Housing,Other Facilities,1,N/A,289.6,300.6,441.4,453,N/A,686.9,654934,76102.8,N/A,N/A
+Undisclosed Facility,N/A,N/A,N/A,N/A,N/A,N/A,Other Facilities,1,N/A,84.6,85.8,219.9,222.9,N/A,432.3,872800,10393.1,N/A,N/A
+12th Police District / Engine 40,6458 Woodland Avenue,19142,246,29735,1955,Police Station,Police Stations,2,N/A,85,88.3,155.2,156.8,26.1,203.2,274748,15913.4,N/A,N/A
+14th Police District,43 W. Haines Street,19144,743,12035,1950,Police Station,Police Stations,1,N/A,73.5,76.2,145.7,147.4,18.4,76.0,115730,4893.3,N/A,N/A
+16th Police District,400 N. 39th Street,19104,439,15814,1950,Police Station,Police Stations,1,N/A,104.4,108.4,206.4,208.6,67.6,141.5,214450,9200.6,N/A,N/A
+17th Police District / Engine 24,1200 S. 20th Street,19146,104,13238,1955,Police Station,Police Stations,1,N/A,124.9,130.5,250.6,256.5,103.4,143.4,221819,8964.2,N/A,N/A
+18th Police District,5500 Pine Street,19143,216,24532,1982,Police Station,Police Stations,1,N/A,140.3,145.4,308,313.3,150.1,321.4,552891,15553.6,N/A,N/A
+19th Police District / Engine 41,1201 N. 61st Street,19151,116,25207,1954,Police Station,Police Stations,1,N/A,76,78.8,163.1,166.1,32.4,175.6,294573,9097.8,N/A,N/A
+1st Police District / Engine 60,2315 S. 24th Street,19145,531,33300,2000,Police Station,Police Stations,1,N/A,145.2,147.2,342.6,340.5,178.2,479.5,888291,18031.1,N/A,N/A
+22nd Police District,1755 N. 17th Street,19121,1150,28600,1959,Police Station,Police Stations,1,N/A,80.6,83,163.7,163.9,33,201.9,316773,12253.8,N/A,N/A
+24th & 25th Police District,3901 Whitaker Avenue,19140,1157,48000,2002,Police Station,Police Stations,1,N/A,156.3,161.1,343.6,348.7,179.1,701.3,1207891,33810.9,N/A,N/A
+26th Police District,1219 Montgomery Avenue,19122,596,10400,1950,Police Station,Police Stations,1,N/A,88,90.7,179.7,180,45.9,80.6,127431,4800.8,N/A,N/A
+2nd & 15th Police District,2807 Levick Street,19149,468,18162,1955,Police Station,Police Stations,1,N/A,124.9,128,289.2,289.5,134.8,221.5,402670,8943.6,N/A,N/A
+35th Police District / Engine 51,5931 York Road,19141,709,29606,1968,Police Station,Police Stations,1,N/A,130,132.2,288.5,286.4,134.2,362.6,631000,16962.0,N/A,N/A
+39th Police District / Engine 59,2201 W. Hunting Park Avenue,19140,812,32703,1920,Police Station,Police Stations,1,N/A,73.6,74.4,170.8,169.5,38.6,235.4,429039,9426.8,N/A,N/A
+3rd Police District,1100 Wharton Street,19147,23,16611,1959,Police Station,Police Stations,1,N/A,77,83.3,87.6,94.1,-28.8,71.9,15671,12264.0,N/A,N/A
+5th Police District,6654 RIDGE AV,19128,705,10000,1952,Police Station,Police Stations,1,N/A,89.5,91,224.9,222.7,82.7,99.5,185155,N/A,N/A,263026.6
+6th Police District,235 N. 11th Street,19107,316,12205,1950,Police Station,Police Stations,1,N/A,100.3,104.9,185.2,187.9,50.4,99.3,136708,7576.4,N/A,N/A
+7th Police District / Engine 62,9835 Bustleton Avenue,19115,434,19838,1955,Police Station,Police Stations,1,N/A,117.2,117.3,249.3,246.5,102.4,211.5,351293,11256.6,N/A,N/A
+8th Police District,10198 Academy Road,19114,326,14742,1980,Police Station,Police Stations,1,N/A,140.2,145.3,285.4,288.2,131.7,181.4,285878,10907.1,N/A,N/A
+92nd Police District / Wissahickon Hall,3600 Wissahickon Avenue,19129,1054,5000,1850,Police Station,Police Stations,1,N/A,74.5,79,114.7,119.2,-6.9,32.5,27127,N/A,N/A,279939.9
+9th Police District,2000 Hamilton Street,19130,405,38795,1945,Police Station,Police Stations,1,N/A,55.1,55.1,172.9,172.9,40.6,270.6,626226,N/A,N/A,N/A
+Police Internal Affairs,7790 Dungan Road,19111,146,26775,1980,Police Station,Police Stations,1,N/A,106.2,107.1,303,302.1,96.3,331.4,718735,3916.7,N/A,N/A
+Prisons Internal Affairs Division,1136 Byberry Road,19116,389,7200,1948,Other - Public Services,Police Stations,1,N/A,87.7,89.7,147.1,148.9,19.5,47.5,55557,4420.4,N/A,N/A
+11th & Columbia Playground,1701 N. 11th Street,19122,1135,2800,1965,Other - Recreation,Recreation Facilities,1,N/A,170,170,471,471,387.1,54.1,114841,843.0,N/A,N/A
+37th & Mt. Vernon Playground,3700 MT VERNON ST,19104,63,3404,1965,Other - Recreation,Recreation Facilities,1,N/A,14,14,44,44,-54.5,6.0,13965,N/A,N/A,N/A
+Allen's Lane Rec & Art Center,601 W. Allens Lane,19119,1085,11640,1891,Other - Recreation,Recreation Facilities,1,N/A,25.5,25.2,80.1,79.1,-17.2,37.6,86982,N/A,N/A,N/A
+Amos Playground,1600 Berks Street,19125,1015,4291,1915,Other - Recreation,Recreation Facilities,1,N/A,159.9,167.9,262.8,271.2,171.5,50.8,57079,4913.8,N/A,N/A
+Anderson Rec Center,740 South 17th Street,19146,272,31857,1900,Other - Recreation,Recreation Facilities,1,N/A,88.2,93.8,138.8,144.2,43.4,200.9,206192,21074.0,N/A,N/A
+Athletic Rec Center,1400 North 26th Street,19121,687,26845,1954,Other - Recreation,Recreation Facilities,1,N/A,92.1,98.2,135.6,141.3,40,168.0,146171,19747.9,N/A,N/A
+Awbury Rec Center,6101 Ardleigh Avenue,19138,944,8854,1925,Other - Recreation,Recreation Facilities,1,N/A,198.4,204.5,463.4,469.8,378.1,172.7,316795,6754.0,N/A,N/A
+Barry Playground,1800 Bigler Street,19145,262,2274,1987,Other - Recreation,Recreation Facilities,1,N/A,270,281.1,581.4,593.1,500,56.4,94994,2899.0,N/A,N/A
+Belfield Rec Center,2100 W Chew Avenue,19138,722,19125,1915,Other - Recreation,Recreation Facilities,1,N/A,63.9,66.5,129,130.8,33.1,106.5,165948,6558.6,N/A,N/A
+Bridesburg Rec Center,4601 Richmond Street,19137,899,21192,1916,Other - Recreation,Recreation Facilities,1,N/A,99,105.3,168,174.7,73.4,159.1,190385,14474.2,N/A,N/A
+Capitolo Playground,900 Federal Street,19147,501,3363,1900,Other - Recreation,Recreation Facilities,1,N/A,76.3,79.5,167.4,170.7,73,24.0,41163,1161.6,N/A,N/A
+Carousel House Recreation Center Building,2300 Belmont Avenue,19131,1008,20000,1950,Other - Recreation,Recreation Facilities,1,N/A,164.2,171.1,286.9,291.1,196.4,254.9,320939,21896.4,N/A,N/A
+Cecil B Moore Rec Center,2551 N 22nd Street,19132,1163,24713,1950,Other - Recreation,Recreation Facilities,1,N/A,198.5,212.3,275.5,288.6,184.4,318.7,232297,41140.6,N/A,N/A
+Chalfont Playground,4330 Deerpath Lane,19114,43,3428,1956,Other - Recreation,Recreation Facilities,1,N/A,408.2,429.7,727.2,753.5,651.7,110.3,143514,9097.8,N/A,N/A
+Cherashore Playground,10th and Chew,19141,588,2500,1947,Other - Recreation,Recreation Facilities,1,N/A,162.4,168.3,366.5,372.7,278.6,38.8,68698,1716.8,N/A,N/A
+Cione Playground,2600 Aramingo Avenue,19125,725,4828,1960,Other - Recreation,Recreation Facilities,1,N/A,112.3,112,292.7,291.6,202.7,61.6,119097,N/A,N/A,135996.2
+Cobbs Creek Recreation Center and Laura Sims Skatehouse,210 South 63rd Street,19139,984,66000,1904,Ice/Curling Rink,Recreation Facilities,2,N/A,44,45.8,110.2,113.7,13.7,303.5,592580,8481.0,N/A,N/A
+Cohocksink Rec Center,2889 Cedar Street,19134,841,7794,1917,Other - Recreation,Recreation Facilities,1,N/A,119.2,124.4,258.6,260.2,167.3,85.9,145808,4317.6,N/A,N/A
+Columbus Square Playground,1200 Wharton Street,19147,966,4484,2005,Other - Recreation,Recreation Facilities,1,N/A,24.6,24.6,77.3,77.3,-20.1,14.0,32369,N/A,N/A,N/A
+Deni Playground,4273 ADAMS AV,19124,1846,2325,1947,Other - Recreation,Recreation Facilities,1,N/A,44.6,44.6,139.9,139.9,44.3,13.1,30369,N/A,N/A,N/A
+Disston Rec Center,4510 Disston Street,19135,267,27063,1920,Other - Recreation,Recreation Facilities,1,N/A,56.6,60.5,84.8,88.9,-12.4,105.4,96291,12027.6,N/A,N/A
+Feltonville Rec Center,231 Wyoming Avenue,19120,1205,20273,1920,Other - Recreation,Recreation Facilities,1,N/A,87.2,92.8,146.3,151.2,51.1,132.8,155583,12366.8,N/A,N/A
+Finley Rec Center,7701 Mansfield Avenue,19150,1158,18809,1991,Other - Recreation,Recreation Facilities,1,N/A,103,108.9,176,182.2,81.7,147.7,178980,13261.2,N/A,N/A
+Fishtown Rec Center,1202 E. Montgomery Avenue,19125,1856,8979,1900,Other - Recreation,Recreation Facilities,1,N/A,143.9,148.4,266,263.6,174.6,104.9,144624,7987.6,N/A,N/A
+Ford Rec Center,631 Snyder Avenue,19148,958,6106,1965,Other - Recreation,Recreation Facilities,1,N/A,53.8,53.8,139.4,139.4,43.9,35.3,70970,863.5,N/A,N/A
+Fox Chase Playground,515 Meetinghouse Road,19111,1099,18000,1964,Other - Recreation,Recreation Facilities,1,N/A,81.8,85.1,190.8,194.3,97.1,144.6,264998,5674.6,N/A,N/A
+Francis Myers Rec Center,5803 Kingsessing Avenue,19143,965,27475,1962,Other - Recreation,Recreation Facilities,1,N/A,99.5,105.2,168.9,174.9,74.6,207.4,248364,18863.8,N/A,N/A
+Francisville Playground,737 Francis Street,19130,33,3851,1970,Other - Recreation,Recreation Facilities,1,N/A,137.1,143.3,265.4,271.9,174.2,44.4,65580,3042.9,N/A,N/A
+Guerin Rec Center,2201 S. 16th Street,19145,957,19965,1932,Other - Recreation,Recreation Facilities,1,N/A,95.1,100.7,139,143.6,43.7,128.4,109600,15255.5,N/A,N/A
+Hank Gathers Rec Center,2501-19 W Diamond Street,19121,867,16117,1950,Other - Recreation,Recreation Facilities,1,N/A,73.6,78.1,124.5,129.2,28.7,89.7,106631,8224.0,N/A,N/A
+Happy Hollow Playground,4875 PULASKI AV,19144,1530,13528,1950,Other - Recreation,Recreation Facilities,1,N/A,112.1,120.2,192.2,200.8,98.4,115.9,141177,10352.0,N/A,N/A
+Hayes Playground,9901 PRESIDENT ST,19115,366,2000,1900,Other - Recreation,Recreation Facilities,1,N/A,166,166,521.2,521.2,439,42.0,97287,N/A,N/A,N/A
+Hillside Rec Center,201 Fountain Street,19128,784,6597,1949,Other - Recreation,Recreation Facilities,1,N/A,191,201.6,341.4,352.5,252.4,99.6,130308,8152.0,N/A,N/A
+Holmesburg Playground,4500 Rhawn Stret,19136,1078,4000,1953,Other - Recreation,Recreation Facilities,1,N/A,139.2,144.9,273.9,276.5,182.9,47.5,71623,3125.1,N/A,N/A
+Houseman Rec Center,802 Godfrey Avenue,19124,471,9800,1947,Other - Recreation,Recreation Facilities,1,N/A,136.3,143.6,227.2,235,134.6,99.9,115681,9406.2,N/A,N/A
+"Hunting Park Recreation Center, Logan House and Fields",900 West Hunting Park Avenue,19140,1057,10000,1900,Other - Recreation,Recreation Facilities,2,N/A,89.4,94.7,149.5,155,54.4,67.0,77951,6281.1,N/A,N/A
+Jardel Rec Center,1400 Cottman Avenue,19111,250,19088,1948,Other - Recreation,Recreation Facilities,1,N/A,78.4,82.8,140.8,145.5,45.5,118.8,156619,9622.1,N/A,N/A
+Junod Playground,3301 Mechanicsville Road,19154,367,36003,1900,Other - Recreation,Recreation Facilities,1,N/A,51.9,52.6,120.3,121.1,24.2,182.6,332384,7350.2,N/A,N/A
+Kendrick Rec Center,5822 Ridge Avenue,19128,671,27684,1917,Other - Recreation,Recreation Facilities,1,N/A,116.9,124.7,158.7,165.9,64,206.7,139357,27612.1,N/A,N/A
+Kingsessing Rec Center,4901 Kingsessing Avenue,19143,974,28759,1913,Other - Recreation,Recreation Facilities,1,N/A,89.5,94.5,158.7,164,63.9,202.1,261142,16818.1,N/A,N/A
+Lawncrest Rec Center,6000 Rising Sun Ave,19111,35,18553,1975,Other - Recreation,Recreation Facilities,1,N/A,124.8,132,230.5,237.9,138.2,187.8,258550,14340.6,N/A,N/A
+Lee Rec Center,4328 Haverford Avenue,19104,985,21011,1950,Other - Recreation,Recreation Facilities,1,N/A,63.5,65.9,135.4,137.9,39.9,121.7,202488,6435.3,N/A,N/A
+Lonnie Young Rec Center,1100 East Chelten Avenue,19138,761,25971,1915,Other - Recreation,Recreation Facilities,1,N/A,82.3,85.7,155.3,157.1,60.4,176.4,250654,12829.4,N/A,N/A
+Mander Playground,2140 North 33rd Street,19121,1296,3321,1900,Other - Recreation,Recreation Facilities,1,N/A,171.4,178.8,326.1,329.5,236.7,47.3,68030,3371.8,N/A,N/A
+Mantua Playground,517-55 N. 34th Street,19104,988,15880,1900,Other - Recreation,Recreation Facilities,1,N/A,75.9,79.3,155.8,159.4,60.8,106.5,169578,6260.5,N/A,N/A
+Martin Luther King Rec Center,2202 Cecil B. Moore Ave.,19121,840,39332,1969,Other - Recreation,Recreation Facilities,1,N/A,101.1,106.6,173.6,179.3,79.3,304.4,371756,27087.8,N/A,N/A
+McDevitt Rec Center,3531 Scotts Lane,19129,777,11297,1900,Other - Recreation,Recreation Facilities,1,N/A,60.6,63.2,131.8,135.2,36.2,63.4,107902,3166.2,N/A,N/A
+Mcilvain Playground,5200 Penn Street,19124,61,2118,1947,Other - Recreation,Recreation Facilities,1,N/A,122.2,128,241.6,247.8,149.4,22.1,33662,1439.2,N/A,N/A
+McVeigh Rec Center,400 East Ontario street,19134,648,19025,1922,Other - Recreation,Recreation Facilities,1,N/A,96.8,102.2,182.6,188.2,88.7,152.0,215818,11061.3,N/A,N/A
+Mill Creek Playground,4700 Brown Street,19139,992,2263,1966,Other - Recreation,Recreation Facilities,1,N/A,439.3,457.4,893.2,912.3,822.9,87.1,137093,5263.4,N/A,N/A
+Morris Estate Rec Center,1610 Chelten Avenue,19126,850,10970,1961,Other - Recreation,Recreation Facilities,1,N/A,114.1,120.7,193.4,200.3,99.8,94.8,113207,8655.8,N/A,N/A
+Mount Airy Playground,7001 GERMANTOWN AV,19119,741,2540,1900,Other - Recreation,Recreation Facilities,1,N/A,162.6,165.4,472.9,475.7,388.3,49.9,107879,N/A,N/A,44988.0
+Murphy Rec Center,300 SkunkStreet,19148,953,18115,1950,Other - Recreation,Recreation Facilities,1,N/A,104.6,112.4,173.1,181.2,78.8,140.9,160525,13477.1,N/A,N/A
+Northern Liberties Playground,313 Fairmount Avenue,19123,990,17874,1949,Other - Recreation,Recreation Facilities,1,N/A,81.6,87.9,117.3,123.3,21.1,97.3,79113,11894.0,N/A,N/A
+Olney Rec Center,200 E. Champlost Street,19120,878,17916,1900,Other - Recreation,Recreation Facilities,1,N/A,96.1,100.5,183.9,188.6,89.9,143.7,208579,10095.0,N/A,N/A
+Palumbo Rec Center,700 South 9th Street,19147,973,11017,1900,Other - Recreation,Recreation Facilities,1,N/A,143.3,152.9,243,253.1,151,119.7,142976,10907.1,N/A,N/A
+Panati Playground,2141 Clearfield Street,19134,1041,2027,1900,Other - Recreation,Recreation Facilities,1,N/A,121.5,128.9,168.5,174.1,74.1,16.0,11622,2066.3,N/A,N/A
+Pelbano (Rhawnhurst) Rec Center,8101 Bustleton Avenue,19152,102,12000,1900,Other - Recreation,Recreation Facilities,1,N/A,139.9,150.1,170.6,181.4,76.2,99.1,40014,15420.0,N/A,N/A
+Ramp Playground,3300 Solly Avenue,19152,515,2835,1950,Other - Recreation,Recreation Facilities,1,N/A,129.9,136.9,214,219.5,120.9,27.3,30837,2631.7,N/A,N/A
+Rivera Rec Center,3201 N. 5th Street,19140,922,33532,1900,Other - Recreation,Recreation Facilities,1,N/A,85.5,90.3,150.2,155.2,55.2,223.5,283971,18987.2,N/A,N/A
+Rizzo Ice Rink,1011 South Front Street,19147,967,3000,1955,Other - Recreation,Recreation Facilities,1,N/A,424.3,454,924.8,984.6,855.6,118.1,201637,5849.3,N/A,N/A
+Samuel Rec Center,3539 Gaul Street,19134,938,14079,1900,Other - Recreation,Recreation Facilities,1,N/A,108.3,112.6,202.7,203.2,109.5,125.0,175638,9252.0,N/A,N/A
+Shepard Rec Center,57th and Haverford Avenue,19131,996,17783,1928,Other - Recreation,Recreation Facilities,1,N/A,67.1,70.7,148.6,152.3,53.5,112.2,194719,5294.2,N/A,N/A
+Shissler Recreation Center,1800 Blair Street,19125,1010,18000,1920,Other - Recreation,Recreation Facilities,1,N/A,50.8,53.2,89.9,92.5,-7.1,71.7,92404,5983.0,N/A,N/A
+Shot Tower Playground,103 Carpenter Street,19147,969,7198,1975,Other - Recreation,Recreation Facilities,1,N/A,96,102.6,135.9,142.8,40.4,45.6,35412,5705.4,N/A,N/A
+Simons Rec Center and Ice Rink,1600 E WALNUT LA,19138,653,12889,2006,Other - Recreation,Recreation Facilities,1,N/A,333,351.9,678.9,706.2,601.1,377.2,595214,22605.7,N/A,N/A
+Simpson Rec Center,1010 Arrott Street,19124,518,9000,1940,Other - Recreation,Recreation Facilities,1,N/A,96,101.1,166.5,171.8,72,66.7,82810,5818.5,N/A,N/A
+Smith Playground,2100 S 24th St,19145,1297,2334,1950,Other - Recreation,Recreation Facilities,1,N/A,233.4,238,733,747.5,657.8,69.0,159684,N/A,N/A,N/A
+Starr Garden Playground,600 Lombard Street,19147,975,2600,1908,Other - Recreation,Recreation Facilities,1,N/A,110.4,115.4,179.6,183.4,85.5,21.0,23232,2076.6,N/A,N/A
+Stenton Park Playground,1701 West Courtland Street,19140,928,2438,1730,Other - Recreation,Recreation Facilities,1,N/A,512.2,543.2,849.6,885.3,777.1,93.1,106583,8851.1,N/A,N/A
+Tolentine Rec Center,1025 Mifflin Street,19148,959,32322,1900,Other - Recreation,Recreation Facilities,1,N/A,43.5,44.7,83.1,82.6,-14.2,117.2,169828,8254.8,N/A,N/A
+Towey Playground,1876 N. Howard Street,19122,646,8312,1970,Other - Recreation,Recreation Facilities,1,N/A,59.7,63.7,111.7,116.9,15.5,40.7,57139,3012.0,N/A,N/A
+Tustin Playground,5901 W Columbia Avenue,19151,229,5107,1900,Other - Recreation,Recreation Facilities,1,N/A,174.7,182.6,358.4,366.7,270.1,78.8,125289,4646.6,N/A,N/A
+Vare Rec Center,2600 Morris Street,19145,363,24504,1916,Other - Recreation,Recreation Facilities,1,N/A,111.8,118.4,179.8,186.7,85.7,199.3,214472,20076.8,N/A,N/A
+Vogt Rec Center,6700 Cottage Street,19135,1,12812,1949,Other - Recreation,Recreation Facilities,1,N/A,96.4,100.1,192.3,193,98.8,106.7,163539,6774.5,N/A,N/A
+Watch Tower Rec Center,200 E Hartnell Lane,19118,729,18039,1900,Other - Recreation,Recreation Facilities,1,N/A,123.5,131.9,189,197.3,95.1,155.9,150062,17157.3,N/A,N/A
+Waterview Rec Center,5820 McMahon Street,19144,800,18039,1991,Other - Recreation,Recreation Facilities,1,N/A,76.4,82,96.3,101.5,-0.5,83.4,40913,12377.1,N/A,N/A
+Weccacoe Playground,405-25 Queen Street,19147,970,4500,1900,Other - Recreation,Recreation Facilities,1,N/A,11.3,11.3,35.3,35.3,-63.5,6.4,14840,N/A,N/A,N/A
+West Mill Creek Playground,5101 Reno Street,19139,994,2344,1900,Other - Recreation,Recreation Facilities,1,N/A,268.1,278.3,581.7,592.3,501.1,58.1,98647,2919.5,N/A,N/A
+Wissinoming Park Playground,5801  Frankford Avenue,19135,545,2601,1913,Other - Recreation,Recreation Facilities,1,N/A,526.4,550.5,1085.5,1110.2,1020,121.5,194307,7062.4,N/A,N/A
+Ziehler Playground,5530 N. B Street,19120,1976,3664,1970,Other - Recreation,Recreation Facilities,1,N/A,98.2,101.6,194.5,195.5,100.8,30.9,46988,1994.3,N/A,N/A
