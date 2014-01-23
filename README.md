@@ -1,6 +1,6 @@
 ## Energy Benchmarking Data
 
-Data submitted as part of the City of Philadelphia's building energy benchmarking requirements. It currently includes all benchmarked municipal buildings in Philadelphia based on information contributed by the City of Philadelphia Mayor's Office of Sustainability.
+Data compiled as part of the City of Philadelphia's building energy management and in coordination with the City's benchmarking requirements. It currently includes data for CY 2011 for all benchmarked municipal buildings in Philadelphia based on information contributed by the City of Philadelphia Mayor's Office of Sustainability.
 
 Fields included 
 * FACILITY_DESCRIPTION
